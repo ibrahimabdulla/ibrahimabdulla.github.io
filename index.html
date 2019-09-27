@@ -198,8 +198,14 @@ Due to my passion for digital design and current trends I applied as a young jur
 
                 <ul class="contact-list">
                     <li><a href="mailto:ibrahimpni@outlook.com">ibrahimpni@outlook.com</a></li>
-                    
-                    
+                   
+                </ul>
+
+                <h4>Quick link</h4>
+
+                <ul class="contact-list">
+                    <li><a href="/portfolio">Portfolio</a></li>
+                  
                 </ul>
             </div>
 
@@ -280,7 +286,7 @@ $.ajax({
       if (data.length > 0) { 
         $.each(data.reverse(), function(i, val) {                
           $('#shots').prepend(
-            '<div class="col-block item-folio" data-aos="fade-up"><div class="item-folio__thumb"><a href="'+ val.html_url +'" class="thumb-link" title="' + val.title + '" ><img src="'+ val.images.hidpi +'"/></a></div><div class="item-folio__text"><h3 class="item-folio__title">' + val.title + '</h3></div></div>'
+            '<div class="col-block item-folio" data-aos="fade-up"><div class="item-folio__thumb"><a href="" class="thumb-link" title="' + val.title + '" ><img src="'+ val.images.hidpi +'"/></a></div><div class="item-folio__text"><h3 class="item-folio__title">' + val.title + '</h3></div></div>'
             )
         })
       }
@@ -291,5 +297,7 @@ $.ajax({
 });
 </script>
 
-    <script type="text/javascript"></script></body>
+    <script type="text/javascript"></script>
+
+    </body>
 </html>
