@@ -11,7 +11,7 @@ $.ajax({
       if (data.length > 0) { 
         $.each(data.reverse(), function(i, val) {                
           $('#shots').prepend(
-            '<div class="col-block item-folio" data-aos="fade-up"><div class="item-folio__thumb"><a href="'+ val.html_url +'" class="thumb-link" title="' + val.title + '" data-size="1920x4990"><img src="'+ val.images.hidpi +'"/></a></div><div class="item-folio__text"><h3 class="item-folio__title">' + val.title + '</h3></div></div>'
+            '<div class="col-block item-folio" data-aos="fade-up"><div class="item-folio__thumb"><a href="" class="thumb-link" title="' + val.title + '" data-size="1920x4990"><img src="'+ val.images.hidpi +'"/></a></div><div class="item-folio__text"><h3 class="item-folio__title">' + val.title + '</h3></div></div>'
             )
         })
       }
@@ -23,18 +23,8 @@ $.ajax({
 
 
 
-// API Variables
 
-//Image width 800x600 (Animated)
-  // val.images.hidpi 
-//Image width 400x300
-  // val.images.normal
-//Image width 200x150
-  // val.images.teaser
-//Title
-  // val.title
-//Description
-  // val.description
-//URL
   // val.html_url</script>
+  //            '<div class="col-block item-folio" data-aos="fade-up"><div class="item-folio__thumb"><a href="'+ val.html_url +'" class="thumb-link" title="' + val.title + '" data-size="1920x4990"><img src="'+ val.images.hidpi +'"/></a></div><div class="item-folio__text"><h3 class="item-folio__title">' + val.title + '</h3></div></div>'
+
 
