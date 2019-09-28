@@ -72,6 +72,10 @@
 
 }
 
+a:hover{
+  color: #0057ff !important;
+}
+
 
 html {
   font-size: 10px;
@@ -129,7 +133,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   font-family: "geomanistregular", sans-serif;
   font-weight: 600;
   /*color: #000000;*/
-  color: #ffffff;
+  color: #151515;
   text-rendering: optimizeLegibility;
 }
 
@@ -1434,7 +1438,7 @@ input::-moz-focus-inner {
 }
 
 .display-1--light {
-  color: #FFFFFF;
+  color: #151515;
 }
 
 .subhead {
@@ -1830,7 +1834,7 @@ input::-moz-focus-inner {
  * ## navigation 
  * ------------------------------------------------------------------- */
 .header-nav-wrap {
-  font-family: "geomanistregular", sans-serif;
+/*  font-family: "geomanistregular", sans-serif;
   font-weight: 500;
   font-size: 11px;
   text-transform: uppercase;
@@ -1838,6 +1842,17 @@ input::-moz-focus-inner {
   position: absolute;
   top: 0;
   left: 200px;
+*/
+
+  font-family: "geomanistregular", sans-serif;
+    font-weight: 500;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: .3rem;
+    /* position: absolute; */
+    top: 0;
+    left: 200px;
+    float: right;
 }
 
 .header-nav {
@@ -2008,6 +2023,10 @@ input::-moz-focus-inner {
   height: 100%;
   opacity: .1;
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0) 100%);
+
+
+
+
 }
 
 .no-js .s-home {
@@ -2028,7 +2047,8 @@ input::-moz-focus-inner {
 }
 
 .home-content h1 {
-  font-size: 6.6rem;
+  font-size: 5.6rem;
+  
   font-weight: 600;
   line-height: 1.5;
   margin-top: 0;
@@ -2767,8 +2787,8 @@ html.no-csstransitions .home-content__main {
 .s-works {
   padding-top: 18rem;
   padding-bottom: 18rem;
-  /*background-color: #FFFFFF;*/
-  background-color: #151515;
+  background-color: #FFFFFF;
+  /*background-color: #151515;*/
   position: relative;
 }
 
@@ -3419,7 +3439,7 @@ html.no-csstransitions .home-content__main {
 .s-contact {
   padding-top: 18rem;
   padding-bottom: 12rem;
-  background-color: #151515;
+  background-color: #ffffff;
   position: relative;
 }
 
@@ -3460,7 +3480,7 @@ html.no-csstransitions .home-content__main {
   font-weight: normal;
   font-size: 2.8rem;
   line-height: 1.714;
-  color: white;
+  color: #151515;
 }
 
 .contact-infos [class*="contact-"] {
@@ -3473,7 +3493,8 @@ html.no-csstransitions .home-content__main {
 }
 
 .contact-list a {
-  color: #FFFFFF;
+  /*color: #FFFFFF;*/
+  color: #151515;
 }
 
 .contact-list li {
@@ -3673,8 +3694,10 @@ footer {
   padding-top: 0;
   padding-bottom: 6rem;
   border-top: 1px solid rgba(255, 255, 255, 0.03);
-  color: rgba(255, 255, 255, 0.3);
+  color: rgba(0, 0, 0, 0.71);
+
   position: relative;
+  background: white;
 }
 
 footer a,
