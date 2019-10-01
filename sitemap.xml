@@ -1,188 +1,107 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://ibrahimabdulla.github.io/photography/aer/</loc>
-    <lastmod>2019-09-26T20:07:55+04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ibrahimabdulla.github.io/portfolio/aer/</loc>
-    <lastmod>2019-09-26T20:07:55+04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ibrahimabdulla.github.io/</loc>
-    <lastmod>2019-09-26T20:07:55+04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ibrahimabdulla.github.io/photography/</loc>
-    <lastmod>2019-09-26T20:07:55+04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ibrahimabdulla.github.io/portfolio/</loc>
-    <lastmod>2019-09-26T20:07:55+04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ibrahimabdulla.github.io/photography/raffles/</loc>
-    <lastmod>2019-09-26T20:07:55+04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ibrahimabdulla.github.io/portfolio/raffles/</loc>
-    <lastmod>2019-09-26T20:07:55+04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ibrahimabdulla.github.io/photography/rami/</loc>
-    <lastmod>2019-09-26T20:07:55+04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ibrahimabdulla.github.io/portfolio/rami/</loc>
-    <lastmod>2019-09-26T20:07:55+04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ibrahimabdulla.github.io/photography/smash/</loc>
-    <lastmod>2019-09-26T20:07:55+04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ibrahimabdulla.github.io/portfolio/smash/</loc>
-    <lastmod>2019-09-26T20:07:55+04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ibrahimabdulla.github.io/photography/aero/</loc>
-    <lastmod>2019-09-25T20:07:55+04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ibrahimabdulla.github.io/portfolio/aero/</loc>
-    <lastmod>2019-09-25T20:07:55+04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ibrahimabdulla.github.io/photography/asifma/</loc>
-    <lastmod>2019-09-25T20:07:55+04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ibrahimabdulla.github.io/portfolio/asifma/</loc>
-    <lastmod>2019-09-25T20:07:55+04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ibrahimabdulla.github.io/photography/cpl/</loc>
-    <lastmod>2019-09-25T20:07:55+04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ibrahimabdulla.github.io/portfolio/cpl/</loc>
-    <lastmod>2019-09-25T20:07:55+04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ibrahimabdulla.github.io/photography/dal/</loc>
-    <lastmod>2019-09-25T20:07:55+04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ibrahimabdulla.github.io/portfolio/dal/</loc>
-    <lastmod>2019-09-25T20:07:55+04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ibrahimabdulla.github.io/photography/enpi/</loc>
-    <lastmod>2019-09-25T20:07:55+04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ibrahimabdulla.github.io/portfolio/enpi/</loc>
-    <lastmod>2019-09-25T20:07:55+04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ibrahimabdulla.github.io/photography/fero/</loc>
-    <lastmod>2019-09-25T20:07:55+04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ibrahimabdulla.github.io/portfolio/fero/</loc>
-    <lastmod>2019-09-25T20:07:55+04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ibrahimabdulla.github.io/photography/glams/</loc>
-    <lastmod>2019-09-25T20:07:55+04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ibrahimabdulla.github.io/portfolio/glams/</loc>
-    <lastmod>2019-09-25T20:07:55+04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ibrahimabdulla.github.io/photography/htv/</loc>
-    <lastmod>2019-09-25T20:07:55+04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ibrahimabdulla.github.io/portfolio/htv/</loc>
-    <lastmod>2019-09-25T20:07:55+04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ibrahimabdulla.github.io/photography/its2/</loc>
-    <lastmod>2019-09-25T20:07:55+04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ibrahimabdulla.github.io/portfolio/its2/</loc>
-    <lastmod>2019-09-25T20:07:55+04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ibrahimabdulla.github.io/photography/knauf/</loc>
-    <lastmod>2019-09-25T20:07:55+04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ibrahimabdulla.github.io/portfolio/knauf/</loc>
-    <lastmod>2019-09-25T20:07:55+04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ibrahimabdulla.github.io/photography/shortlistme/</loc>
-    <lastmod>2019-09-25T20:07:55+04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ibrahimabdulla.github.io/portfolio/shortlistme/</loc>
-    <lastmod>2019-09-25T20:07:55+04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ibrahimabdulla.github.io/photography/wnc/</loc>
-    <lastmod>2019-09-25T20:07:55+04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ibrahimabdulla.github.io/portfolio/wnc/</loc>
-    <lastmod>2019-09-25T20:07:55+04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ibrahimabdulla.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ibrahimabdulla.github.io/tags/</loc>
-  </url>
-  
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://ibrahimabdulla.github.io/</loc>
+  <lastmod>2019-09-29T08:07:52+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://ibrahimabdulla.github.io/portfolio/</loc>
+  <lastmod>2019-09-29T08:07:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ibrahimabdulla.github.io/photography/</loc>
+  <lastmod>2019-09-29T08:07:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ibrahimabdulla.github.io/portfolio/aer/</loc>
+  <lastmod>2019-09-29T08:07:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ibrahimabdulla.github.io/portfolio/raffles/</loc>
+  <lastmod>2019-09-29T08:07:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ibrahimabdulla.github.io/portfolio/rami/</loc>
+  <lastmod>2019-09-29T08:07:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ibrahimabdulla.github.io/portfolio/smash/</loc>
+  <lastmod>2019-09-29T08:07:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ibrahimabdulla.github.io/portfolio/aero/</loc>
+  <lastmod>2019-09-29T08:07:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ibrahimabdulla.github.io/portfolio/asifma/</loc>
+  <lastmod>2019-09-29T08:07:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ibrahimabdulla.github.io/portfolio/cpl/</loc>
+  <lastmod>2019-09-29T08:07:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ibrahimabdulla.github.io/portfolio/dal/</loc>
+  <lastmod>2019-09-29T08:07:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ibrahimabdulla.github.io/portfolio/enpi/</loc>
+  <lastmod>2019-09-29T08:07:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ibrahimabdulla.github.io/portfolio/fero/</loc>
+  <lastmod>2019-09-29T08:07:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ibrahimabdulla.github.io/portfolio/glams/</loc>
+  <lastmod>2019-09-29T08:07:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ibrahimabdulla.github.io/portfolio/htv/</loc>
+  <lastmod>2019-09-29T08:07:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ibrahimabdulla.github.io/portfolio/its2/</loc>
+  <lastmod>2019-09-29T08:07:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ibrahimabdulla.github.io/portfolio/knauf/</loc>
+  <lastmod>2019-09-29T08:07:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ibrahimabdulla.github.io/portfolio/shortlistme/</loc>
+  <lastmod>2019-09-29T08:07:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ibrahimabdulla.github.io/portfolio/wnc/</loc>
+  <lastmod>2019-09-29T08:07:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
 </urlset>
