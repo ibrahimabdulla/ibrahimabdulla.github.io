@@ -1,4 +1,37 @@
 <!DOCTYPE html>
+<button onclick="install()">
+  Install
+</button>
+<script>
+    let deferredPrompt = null;
+
+window.addEventListener('beforeinstallprompt', (e) => {
+  
+  e.preventDefault();
+  
+  deferredPrompt = e;
+});
+
+async function install() {
+  if (deferredPrompt) {
+    deferredPrompt.prompt();
+    console.log(deferredPrompt)
+    deferredPrompt.userChoice.then(function(choiceResult){
+
+      if (choiceResult.outcome === 'accepted') {
+      console.log('Your PWA has been installed');
+    } else {
+      console.log('User chose to not install your PWA');
+    }
+
+    deferredPrompt = null;
+
+    });
+
+ 
+  }
+}
+</script>
 <html class="no-js" lang="en"><head>
     
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-85130337-2"></script>
@@ -56,6 +89,10 @@
     <link rel="icon" href="" type="image/x-icon">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 
+<div class="fb-customerchat"
+ page_id="106275992767543"
+ minimized="true">
+</div>
 
 </head>
 <body id="top">
@@ -85,8 +122,7 @@
                 <ul class="header-nav">
     
                 <li><a class="smoothscroll"  href="#about" title="about">About</a></li>
-                <li><a class=""  href="/portfolio" title="works">Web Design</a></li>
-                <li><a class="smoothscroll"  href="#works" title="works">Corporate Identity</a></li>
+                <li><a class=""  href="/portfolio" title="works">Works</a></li>                
                 <li><a class=""  href="/photography" title="photo">Photography</a></li>
                 <li><a class=""  href="#contactme" title="contact">Podcast</a></li>
                 <li><a class=""  href="#contactme" title="contact">Blog</a></li>
