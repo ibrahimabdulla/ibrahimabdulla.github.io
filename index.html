@@ -1,37 +1,5 @@
 <!DOCTYPE html>
-<button onclick="install()">
-  Install
-</button>
-<script>
-    let deferredPrompt = null;
 
-window.addEventListener('beforeinstallprompt', (e) => {
-  
-  e.preventDefault();
-  
-  deferredPrompt = e;
-});
-
-async function install() {
-  if (deferredPrompt) {
-    deferredPrompt.prompt();
-    console.log(deferredPrompt)
-    deferredPrompt.userChoice.then(function(choiceResult){
-
-      if (choiceResult.outcome === 'accepted') {
-      console.log('Your PWA has been installed');
-    } else {
-      console.log('User chose to not install your PWA');
-    }
-
-    deferredPrompt = null;
-
-    });
-
- 
-  }
-}
-</script>
 <html class="no-js" lang="en"><head>
 	<meta name="generator" content="Hugo 0.58.3" />
     
@@ -52,7 +20,7 @@ async function install() {
     
         <meta name="description" content="Ibrahim abdulla - UI/UX designer & Front end developer">
     <meta name="author" content="Ibrahim abdulla">
-    
+    <link rel='manifest' href='/manifest.json'>
   <meta name="keywords" content="ui ux designer dubai
 ,ibrahim,ibrahim abdulla,ui,ux">
 
