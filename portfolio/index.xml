@@ -10,6 +10,15 @@
     
 	<atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>OSO</title>
+      <link>/portfolio/oso/</link>
+      <pubDate>Thu, 29 Sep 2019 20:07:55 +0400</pubDate>
+      
+      <guid>/portfolio/oso/</guid>
+      <description></description>
+    </item>
+    
     
     <item>
       <title>Aermobi</title>
@@ -20,6 +29,18 @@
       <description>Aer-Mobi offers consultancy services with over 25 years’ experience in aviation, government relations, and business development in Asia and Global Markets.</description>
     </item>
     
+
+   
+    <item>
+      <title>MD</title>
+      <link>/portfolio/md/</link>
+      <pubDate>Thu, 30 Sep 2019 20:07:55 +0400</pubDate>
+      
+      <guid>/portfolio/md/</guid>
+      <description></description>
+    </item>
+    
+
     <item>
       <title>Raffles Hospital</title>
       <link>/portfolio/raffles/</link>
